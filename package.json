@@ -1,0 +1,23 @@
+{
+  "name": "countries-pdf",
+  "version": "1.0.0",
+  "description": "countries pdf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eh2409/countries-pdf.git"
+  },
+  "author": "eliad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eh2409/countries-pdf/issues"
+  },
+  "homepage": "https://github.com/Eh2409/countries-pdf#readme",
+  "dependencies": {
+    "pdfkit-table": "^0.1.99"
+  }
+}
